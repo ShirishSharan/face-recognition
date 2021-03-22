@@ -1,0 +1,20 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px red;
+}
+
+.heading_div{
+    float:none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color:yellow;
+    box-shadow:10px 10px 10px peachpuff;
+}
+
+.heading_div2{
+    font-size: 18px;
+}
+
